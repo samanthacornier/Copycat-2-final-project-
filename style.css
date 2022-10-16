@@ -1,0 +1,125 @@
+header{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(40, 40, 141);
+  float: left;
+}
+h3{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: xx-large;
+  color:rgb(33, 33, 165); 
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+ 
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+
+h5{
+    font-family: abril Fatface;
+    color: rgb(57, 57, 57);
+}
+===================================================================================  
+
+.box-continer{
+    border-radius: 25px;
+    background: white;
+    padding: 20px;
+    width: 800px;
+    margin: auto;
+    box-shadow: #ddd;}
+    
+   
+
+
+nav{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: #777;
+    margin: 20px;
+    float: left;
+    word-spacing: 5;
+
+}
+li{
+  list-style: none;
+  display: inline;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  font-stretch: expanded;
+}
+
+
+section{
+
+    width: 45%;
+
+    display: inline-block;
+
+    
+}
+
+main{
+  align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
